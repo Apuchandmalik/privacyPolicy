@@ -1,0 +1,39 @@
+Privacy Policy for IRCTC UNOFFICIAL
+Effective Date: 01/05/2025
+Introduction
+At IRCTC UNOFFICIAL, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our software.
+---
+1. Information We Collect
+We may collect the following types of information:
+•	User-Provided Information: Information you enter into the software, such as your username, password, district, block, mouja, and other application-related details.
+•	Automatically Collected Information: Technical data such as your device type, operating system, and usage statistics.
+---
+2. How We Use Your Information
+We use the information collected for the following purposes:
+•	To process and automate the generation of office copies from Banglarbhumi.
+•	To improve the functionality and user experience of the software.
+•	To provide customer support and respond to inquiries.
+---
+3. Data Sharing and Disclosure
+We do not sell, trade, or rent your personal information to third parties. However, we may share your data in the following circumstances:
+•	With Your Consent: When you explicitly agree to share your information.
+•	Legal Requirements: If required by law or to comply with legal processes.
+---
+4. Data Security
+We implement appropriate technical and organizational measures to protect your data from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure.
+---
+5. Third-Party Services
+Our software may integrate with third-party services, such as Banglarbhumi's website, to provide its functionality. We are not responsible for the privacy practices of these third-party services.
+---
+6. Your Rights
+You have the following rights regarding your data:
+•	Access, update, or delete your personal information stored in the software.
+•	Opt-out of data collection where applicable.
+---
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the software, and the "Effective Date" will be updated accordingly.
+---
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+•	Phone: 7550900985
+•	Email: textercomputer@gmail.com
